@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-s2qnwv.yoursingles.online/sitemap.xml
